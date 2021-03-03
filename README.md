@@ -6,4 +6,5 @@ school closures and social distancing, population containment, and disinfection 
 interventions, we used the SEIR (Sensible Exposed Infected Recovered) model structured by contact matrices and age structure, which
 also allowed us to model different strategies that Morocco can adopt. The model takes into account the dynamics of interactions
 between different age sections and in different locations. After validating the model using the available data, we simulated three
-strategies or scenarios, compared and analyzed their results and finally chose the best strategy to adopt.
+strategies or scenarios, compared and analyzed their results and finally chose the best strategy to adopt. In this project, I worked with the Pyross
+library in Python. It isn't available in Windows, so i used binder to work with the notebooks shared by rajeshrinet.
